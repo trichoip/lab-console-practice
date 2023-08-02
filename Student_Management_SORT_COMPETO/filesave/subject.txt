@@ -1,0 +1,16 @@
+PRF192,Programming Fundamentals,3
+EEE333,C++,2
+MAE101,Mathematics for Engineering,3
+GGG565,Eeofor,5
+MAD101,Discrete mathematics,3
+TTT198,Buble Sorf,3
+OSG202,Operating Systems,3
+LAB211,OOP with Java Lab,8
+CCC444,Java#,1
+SWD392,SW Architecture and Design,7
+AAA111,Merray,3
+PRM392,Mobile Programming,4
+DDD222,Touble,6
+BBB928,AC I/o,3
+OJT202,On the job training (BBA),3
+TRI0000,TRI LEARNING LAB211,3
